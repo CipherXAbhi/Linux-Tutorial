@@ -194,7 +194,158 @@
    <tr>
     <td>38.</td>
     <td>gzip -k filename</td>
-    <td>compress </td>
+    <td>compress the file</td>
   </tr>
-  
+  <tr>
+    <td>39.</td>
+    <td>gunzip filename</td>
+    <td>Unzip the file. </td>
+  </tr>
+  <tr>
+    <td>40.</td>
+    <td>tar -czf myfiles.tar.gz myfiles/</td>
+    <td>Compress a folder in linux</td>
+  </tr>
+  <tr>
+    <td>41.</td>
+    <td>tar -xzf myfiles.tar.gz</td>
+    <td>dcompress the file.</td>
+  </tr>
+  <tr>
+    <td>42.</td>
+    <td>zip myfiles.zip file1 file2</td>
+    <td>compress multiple files in one zipped file in linux.</td>
+  </tr>
+  <tr>
+    <td>43.</td>
+    <td>wget URL_of_file, wget -O opt_file.txt URL_of_file </td>
+    <td>download a file from internet, if you want to change the name of the file use second command.</td>
+  </tr>
+  <tr>
+    <td>44.</td>
+    <td>curl http://numbersapi.com/random</td>
+    <td>call an API on Linux.</td>
+  </tr>
+  <tr>
+    <td>45.</td>
+    <td>apt or yum/dnf</td>
+    <td>installl an application on linux. Ex. <b>yum install nginx</b> for redhat,fidora users, <b>sudo apt install nginx</b>. for distribution system like: ubuntu, kali, parrot</td>
+  </tr>
+  <tr>
+    <td>46.</td>
+    <td>apt search package name</td>
+    <td>list available packages to install on linux</td>
+  </tr>
+  <tr>
+    <td>47.</td>
+    <td>systemctl start/stop service_name</td>
+    <td>start/stop a service on linux.</td>
+  </tr>
+  <tr>
+    <td>48.</td>
+    <td>systemctl list-units --type=services --all</td>
+    <td>list all services on linux.</td>
+  </tr>
+  <tr>
+    <td>49.</td>
+    <td>printenv</td>
+    <td>list all existing environment variable on linux</td>
+  </tr>
+  <tr>
+    <td>50.</td>
+    <td>export JAVA_HOME="/usr/lib/jvm/java_v"</td>
+    <td>Add a new Environment Variables on Linux.</td>
+  </tr>
+  <tr>
+    <td>51.</td>
+    <td>ssh user@hostname</td>
+    <td>Access Remote Linux server.</td>
+  </tr>
+  <tr>
+    <td>52.</td>
+    <td>scp file user@hostname:/tmp/</td>
+    <td>Copy a file to a remote Linux server.</td>
+  </tr>
+   <tr>
+    <td>53.</td>
+    <td>chmod a+rwx file.txt</td>
+    <td>modify permission of a file.</td>
+  </tr>
+   <tr>
+    <td>54.</td>
+    <td>chown root file.txt</td>
+    <td>change ownership of a file.</td>
+  </tr>
+   <tr>
+    <td>55.</td>
+    <td>chgrp paul file.txt</td>
+    <td>change group ownership of a file</td>
+  </tr>
+  </tr>
+   <tr>
+    <td>56.</td>
+    <td>free, free -h, free -th</td>
+    <td>check free RAM space</td>
+  </tr>
+  </tr>
+   <tr>
+    <td>57.</td>
+    <td>top</td>
+    <td>check %Memory and cpuutilization</td>
+  </tr>
+  <tr>
+    <td>58.</td>
+    <td>du</td>
+    <td>check disk utilization</td>
+  </tr>
+  <tr>
+    <td>59.</td>
+    <td>df</td>
+    <td>check filesystem available and disk space allocated.</td>
+  </tr>
+  <tr>
+    <td>60.</td>
+    <td>hostname</td>
+    <td>check the hostname of linux server.</td>
+  </tr>
+  <tr>
+    <td>61.</td>
+    <td>lscpu</td>
+    <td>check cpu/core/thread onfo of your linux system.</td>
+  </tr>
+  <tr>
+    <td>62.</td>
+    <td>arch</td>
+    <td>check  type of architecture of your linux.</td>
+  </tr>
+  <tr>
+    <td>63.</td>
+    <td>uname -a</td>
+    <td>see OS name of linux server</td>
+  </tr>
+  <tr>
+    <td>64.</td>
+    <td>telnet IP Port</td>
+    <td>check if a IP:PORT accessible and open or not?</td>
+  </tr>
+  <tr>
+    <td>65.</td>
+    <td>netstate -putan | grep 80</td>
+    <td>check port is open or not on our server.</td>
+  </tr>
+  <tr>
+    <td>66.</td>
+    <td>traceroute</td>
+    <td>check all hubs in network path to reach a website</td>
+  </tr>
+  <tr>
+    <td>67.</td>
+    <td>useradd amit</td>
+    <td>add new user in your linux system </td>
+  </tr>
+  <tr>
+    <td>63.</td>
+    <td>uname -a</td>
+    <td>see OS name of linux server</td>
+  </tr>
 </table>
