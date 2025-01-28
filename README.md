@@ -27,6 +27,6 @@ Linux is widely used in IT industries for servers, cloud computing, cybersecurit
 | Topics | Hadings |
 |----------|----------|
 | Topic 1    | [Access Linux Server Remotely Using SSH - Putty, Windows CMD, GitBashm, MobaXterm](https://github.com/CipherXAbhi/Linux-Tutorial/blob/f2411634d2f14ff5219176a223589e3abb6945b8/Access%20Linux%20Server%20Remotely%20Using%20SSH%20-%20Putty%20%7C%20Windows%20CMD%20%7C%20GitBash%20%7C%20MobaXterm/readme.md)   |
-| Topic 2    | [WinScp Setup, Transfer Files Between Linux and Windows]()   |
+| Topic 2    | [WinScp Setup, Transfer Files Between Linux and Windows](https://github.com/CipherXAbhi/Linux-Tutorial/blob/95f2b233520028fa9d5aac53747be378d9a332da/WinScp%20Setup%20%7C%20Transfer%20Files%20Between%20Linux%20and%20Windows/readme.md)   |
 | Topic 3    | [Linux Important Commands]()   |
 | Topic 4    | [Understand Linux Hard & Soft Links, Linux LN command]()   |
